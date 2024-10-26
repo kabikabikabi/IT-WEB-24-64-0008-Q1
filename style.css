@@ -1,0 +1,44 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #fff;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    color: #525ffb;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.btn-purple {
+    background-color: #525ffb !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+.service-box {
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: background-color 0.3s;
+}
+
+.service-box:hover {
+    background-color: #525ffb;
+    color: white;
+}
+
+h3, h4 {
+    font-weight: bold;
+}
+
+.text-purple {
+    color: #525ffb;
+    font-size: 5rem;
+    font-weight: bold;
+}
